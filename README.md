@@ -1,6 +1,6 @@
 # Atlas de Nomes
 
-**Cada nombre, una historia.** Un explorador de 87 nombres en Galicia y España para descubrir cuántas personas los llevan, dónde viven y cómo se reparten por edades.
+**Cada nombre, una historia.** Un explorador de 102 nombres en Galicia y España para descubrir cuántas personas los llevan, dónde viven y cómo se reparten por edades.
 
 La app combina datos demográficos de 1900 a 2026, un censo de nombres con referencia a 2025 y fichas de significado y procedencia. Puedes explorar un nombre o seleccionar varios para compararlos en la misma gráfica.
 
